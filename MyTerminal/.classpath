@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/Jar-uri/apduio.jar"/>
+	<classpathentry kind="lib" path="E:/Jar-uri/oracle_apduio.jar"/>
+	<classpathentry kind="lib" path="E:/Jar-uri/bcprov-jdk15on-160b05.jar"/>
+	<classpathentry kind="lib" path="E:/Jar-uri/bouncycastle-jce-jdk13-112.jar"/>
+	<classpathentry kind="lib" path="E:/Jar-uri/JUNIT/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Jar-uri/JUNIT/junit-4.12.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
